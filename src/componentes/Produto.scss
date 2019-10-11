@@ -1,0 +1,19 @@
+.produto{
+    display: flex;
+    width: 20%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    .bnts{
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+    }
+    p{
+        margin: 20px;
+        font-size: 18pt;
+    }
+    img{
+        width: 300px;
+    }
+}

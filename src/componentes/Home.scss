@@ -1,0 +1,23 @@
+.Home{
+    header{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-image: url();
+        background-size: cover;
+        width: 100%;
+        height:400px;
+
+    }
+   h1{
+       color: chartreuse;
+   } 
+   .bnt{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        button{
+            margin:20px;
+        }
+   }
+}

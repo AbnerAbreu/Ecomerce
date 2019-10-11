@@ -1,0 +1,23 @@
+#root{
+    .Produtos{
+        display: flex;
+        flex-direction: column;
+
+    .line{
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+        margin-bottom: 50px;
+    }
+        div{
+            display: flex;
+            //flex-direction: row;
+        }
+        h1{
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+}
